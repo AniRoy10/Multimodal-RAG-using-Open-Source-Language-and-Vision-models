@@ -1,4 +1,4 @@
-This project implements a Multimodal Retrieval-Augmented Generation (RAG) pipeline using open-source Language and Vision models, designed for efficient semantic search and question answering across multiple data types, including text, tables, and images.
+This project implements a Multimodal Retrieval-Augmented Generation (RAG) pipeline using open-source Language (Llama 3.1-8b) and Vision models (Google gemini 1.5-Flash) , designed for efficient semantic search and question answering across multiple data types, including text, tables, and images.
 
 Pipeline Overview:
 
